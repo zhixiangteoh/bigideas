@@ -11,5 +11,6 @@
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
+  1. Isn't this simple? 
 
 <a href="http://www.wtfpl.net/">See full license and more on official website here.</a>
