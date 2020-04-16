@@ -1,6 +1,6 @@
 # bigideas Code of Conduct
 
-bigideas is a fun school project started by three college students. It is primarily made as an open-source coding project. **Any and all** contribution in any form is appreciated and welcome. We just require each contribution to be made as a pull request.
+bigideas is a fun school project started by three college students. It is primarily made as an open-source coding project. **Any and all** contribution in any form is appreciated and welcome. We just require each contribution to be made as a pull request. Gl hf REMOVETHISLATER
 
 1. **Be friendly and patient**.
 
@@ -52,7 +52,7 @@ bigideas is a fun school project started by three college students. It is primar
 
 8. **A simple apology can go a long way**. It can often de-escalate a situation,
    and telling someone that you are sorry is an act of empathy that doesn’t
-   automatically imply an admission of guilt.
+   automatically imply an admission of guilt. 
 
 
 ## Reporting
@@ -74,7 +74,7 @@ For information on enforcement, please view the [*Enforcement
 Manual*](enforcement.md).
 
 Original text courtesy of the [*Speak
-Up!*](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html), [*Django*](https://www.djangoproject.com/conduct) and [*Jupyter!*](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md) Projects,
+Up!*](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html), [*Django*](https://www.djangoproject.com/conduct) and [*Jupyter*](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md) Projects,
 modified by bigideas.  We are grateful to those projects for contributing these materials under open licensing terms for us to easily reuse.
 
 All content on this page is licensed under a [*Creative Commons

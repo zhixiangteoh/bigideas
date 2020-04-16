@@ -39,7 +39,7 @@ Do What The Fuck You Want To Public License (WTFPL).
 
 ## Team
 - James Wang
-- Pran
+- Pran Sutham 
 - Zhixiang Teoh
 
 ## Getting help
